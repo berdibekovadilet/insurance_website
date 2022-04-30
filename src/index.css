@@ -23,3 +23,7 @@ body {
 .fill:hover {
   opacity: 1;
 }
+
+hr {
+  border: 1px solid #475161;
+}

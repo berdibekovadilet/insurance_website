@@ -17,46 +17,43 @@ const Offer = () => {
         <img src={Arrow} alt="arrow" />
       </div>
       <div>
-        <div className="pb-10">
+        <div className="min-h-[220px]">
           <RiCheckboxCircleLine size={24} />
-          <h3>Certificed platform</h3>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum
-            harum quos repellendus maxime dolor excepturi, voluptas obcaecati
-            explicabo ab, totam rerum cum neque quasi qui fugit velit impedit ex
-            voluptates!
+          <h3 className="py-5 text-2xl">Certified platform</h3>
+          <p className=" text-sm text-gray-400">
+            Then it's time to get your beak wet tonight playa! Awww, it's you
+            guys! You're missing the point Morty. Why would he drive a smaller
+            toaster with wheels? 
           </p>
         </div>
-        <div>
+        <div className="min-h-[220px]">
           <RiSecurePaymentLine size={24} />
-          <h3>Certificed platform</h3>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum
-            harum quos repellendus maxime dolor excepturi, voluptas obcaecati
-            explicabo ab, totam rerum cum neque quasi qui fugit velit impedit ex
-            voluptates!
+          <h3 className="py-5 text-2xl">Customer support</h3>
+          <p className=" text-sm text-gray-400">
+            Nice, Mrs Pancakes. Real nice. Whose kidneys are these? Full
+            disclosure, Morty - it's not. Temporary superintelligence is just a
+            side effect of the Megaseeds dissolving in your rectal cavity. It's
+            called carpe diem Morty. Look it up.
           </p>
         </div>
       </div>
       <div>
-        <div className="pb-10">
+        <div className="min-h-[220px]">
           <Ri24HoursLine size={24} />
-          <h3>Certificed platform</h3>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum
-            harum quos repellendus maxime dolor excepturi, voluptas obcaecati
-            explicabo ab, totam rerum cum neque quasi qui fugit velit impedit ex
-            voluptates!
+          <h3 className="py-5 text-2xl">High Security</h3>
+          <p className=" text-sm text-gray-400">
+            You are the master of your universe, and yet you are dripping with
+            rat blood and feces. It's fine, everythings is fine. theres an
+            infinite number of realities Morty.
           </p>
         </div>
-        <div>
+        <div className="min-h-[220px]">
           <RiMoneyDollarCircleLine size={24} />
-          <h3>Certificed platform</h3>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum
-            harum quos repellendus maxime dolor excepturi, voluptas obcaecati
-            explicabo ab, totam rerum cum neque quasi qui fugit velit impedit ex
-            voluptates!
+          <h3 className="py-5 text-2xl">Friedly Budget</h3>
+          <p className=" text-sm text-gray-400">
+            Rick, the only connection between your unquestionable intelligence
+            and the sickness destroying your family is that everyone in your
+            family,
           </p>
         </div>
       </div>
